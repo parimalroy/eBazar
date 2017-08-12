@@ -4,7 +4,7 @@
  Project Type  			: E-Commarce (Online Shopping).
  Programming Language 	: Php.
  Scripting Language  	: javascript,jqueary.
- Framework				: Laravel 5.4 (MVC).
+ Framework				: Laravel 5.4
  
  
  Admin (admin panel)
